@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hola
 Prueba de error al modificar un mismo archivo
 Ahora veremos como solucionarlo
+=======
+Hello World!
+>>>>>>> 3941064747838411884d23ba21fb73a3207f58c4
